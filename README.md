@@ -1,4 +1,7 @@
+Date: January 31, 2024
+
 Purpose:
+
 This projection aims to automate the literature review process for a large volume of documents discussing economic growth, innovation, and technology.
 
 Methodology:
